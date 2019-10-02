@@ -1,0 +1,11 @@
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.deps.json
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.runtimeconfig.json
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.runtimeconfig.dev.json
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.dll
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.pdb
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.csprojAssemblyReference.cache
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.csproj.CoreCompileInputs.cache
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.AssemblyInfoInputs.cache
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.AssemblyInfo.cs
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.dll
+/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.pdb
