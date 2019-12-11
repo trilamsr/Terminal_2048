@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/tree/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Tree\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/Hackathon.csproj",
+      "projectUniqueName": "c:\\Users\\Tree\\Google Drive\\Portfolio Items\\2048\\Hackathon.csproj",
       "projectName": "Hackathon",
-      "projectPath": "/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/Hackathon.csproj",
-      "packagesPath": "/Users/tree/.nuget/packages/",
-      "outputPath": "/Users/tree/Google Drive/Learning Code/Learning Process/Coding Dojo/CSharp/Hackathon/obj/",
+      "projectPath": "c:\\Users\\Tree\\Google Drive\\Portfolio Items\\2048\\Hackathon.csproj",
+      "packagesPath": "C:\\Users\\Tree\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Tree\\Google Drive\\Portfolio Items\\2048\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/tree/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Tree\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
